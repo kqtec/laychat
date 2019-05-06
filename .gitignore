@@ -1,0 +1,9 @@
+.idea/
+
+/runtime/*
+/public/upload/*
+composer.lock
+install.lock
+.DS_Store
+Thumbs.db
+dump.rdb

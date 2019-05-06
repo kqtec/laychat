@@ -1,0 +1,677 @@
+2019-04-13 23:48:25 pid:41011 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-13 23:51:39 pid:41011 Workerman[start.php] stopping ...
+2019-04-13 23:51:39 pid:41011 Workerman[start.php] has been stopped
+2019-04-13 23:51:40 pid:41165 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-13 23:51:49 pid:41165 Workerman[start.php] stopping ...
+2019-04-13 23:51:49 pid:41165 Workerman[start.php] has been stopped
+2019-04-13 23:53:26 pid:41244 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-13 23:54:55 pid:41244 Workerman[start.php] stopping ...
+2019-04-13 23:54:55 pid:41244 Workerman[start.php] has been stopped
+2019-04-13 23:54:57 pid:41311 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-13 23:55:20 pid:41311 Workerman[start.php] stopping ...
+2019-04-13 23:55:20 pid:41311 Workerman[start.php] has been stopped
+2019-04-13 23:55:21 pid:41339 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-13 23:55:42 pid:41339 Workerman[start.php] stopping ...
+2019-04-13 23:55:42 pid:41339 Workerman[start.php] has been stopped
+2019-04-13 23:55:53 pid:41373 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-13 23:57:38 pid:41373 Workerman[start.php] stopping ...
+2019-04-13 23:57:38 pid:41373 Workerman[start.php] has been stopped
+2019-04-13 23:57:39 pid:41453 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:00:47 pid:41453 Workerman[start.php] stopping ...
+2019-04-14 00:00:47 pid:41453 Workerman[start.php] has been stopped
+2019-04-14 00:00:48 pid:41610 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:01:41 pid:41615 Bad request for Register service. Request info(IP:192.168.3.18, Request Buffer:GET / HTTP/1.1). See http://wiki.workerman.net/Error4 for detail
+2019-04-14 00:03:15 pid:41610 Workerman[start.php] stopping ...
+2019-04-14 00:03:15 pid:41610 Workerman[start.php] has been stopped
+2019-04-14 00:03:16 pid:41716 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:03:50 pid:41716 Workerman[start.php] stopping ...
+2019-04-14 00:03:50 pid:41716 Workerman[start.php] has been stopped
+2019-04-14 00:03:51 pid:41750 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:04:03 pid:41750 Workerman[start.php] stopping ...
+2019-04-14 00:04:03 pid:41750 Workerman[start.php] has been stopped
+2019-04-14 00:04:14 pid:41780 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:04:50 pid:41780 Workerman[start.php] stopping ...
+2019-04-14 00:04:50 pid:41780 Workerman[start.php] has been stopped
+2019-04-14 00:04:52 pid:41815 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:06:42 pid:41815 Workerman[start.php] stopping ...
+2019-04-14 00:06:42 pid:41815 Workerman[start.php] has been stopped
+2019-04-14 00:06:45 pid:41897 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:13:38 pid:41897 Workerman[start.php] stopping ...
+2019-04-14 00:13:38 pid:41897 Workerman[start.php] has been stopped
+2019-04-14 00:13:57 pid:42171 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:16:45 pid:42171 Workerman[start.php] stopping ...
+2019-04-14 00:16:45 pid:42171 Workerman[start.php] has been stopped
+2019-04-14 00:17:01 pid:42301 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:17:39 pid:42301 Workerman[start.php] stopping ...
+2019-04-14 00:17:39 pid:42301 Workerman[start.php] has been stopped
+2019-04-14 00:17:46 pid:42342 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:19:45 pid:42342 Workerman[start.php] stopping ...
+2019-04-14 00:19:45 pid:42342 Workerman[start.php] has been stopped
+2019-04-14 00:19:46 pid:42455 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:27:15 pid:42455 Workerman[start.php] stopping ...
+2019-04-14 00:27:15 pid:42455 Workerman[start.php] has been stopped
+2019-04-14 00:27:17 pid:42742 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:52:46 pid:42742 Workerman[start.php] stopping ...
+2019-04-14 00:52:46 pid:42742 Workerman[start.php] has been stopped
+2019-04-14 00:52:47 pid:43717 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 00:53:20 pid:43717 Workerman[start.php] stopping ...
+2019-04-14 00:53:20 pid:43717 Workerman[start.php] has been stopped
+2019-04-14 00:53:21 pid:43746 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:01:11 pid:43746 Workerman[start.php] stopping ...
+2019-04-14 01:01:11 pid:43746 Workerman[start.php] has been stopped
+2019-04-14 01:01:12 pid:44051 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:18:54 pid:44051 Workerman[start.php] stopping ...
+2019-04-14 01:18:54 pid:44051 Workerman[start.php] has been stopped
+2019-04-14 01:18:55 pid:44721 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:20:17 pid:44721 Workerman[start.php] stopping ...
+2019-04-14 01:20:17 pid:44721 Workerman[start.php] has been stopped
+2019-04-14 01:20:18 pid:44780 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:47:15 pid:44780 Workerman[start.php] stopping ...
+2019-04-14 01:47:15 pid:44780 Workerman[start.php] has been stopped
+2019-04-14 01:47:17 pid:45863 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:48:07 pid:45863 Workerman[start.php] stopping ...
+2019-04-14 01:48:07 pid:45863 Workerman[start.php] has been stopped
+2019-04-14 01:48:18 pid:45916 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:48:48 pid:45916 Workerman[start.php] stopping ...
+2019-04-14 01:48:48 pid:45916 Workerman[start.php] has been stopped
+2019-04-14 01:48:54 pid:45954 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:48:57 pid:45955 Error: Class 'GatewayWorker\App\lib\AccessToken' not found in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php:71
+Stack trace:
+#0 [internal function]: Events::onWebSocketConnect('7f0000010b54000...', Array)
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b54000...', Array)
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 01:48:57 pid:45955 Worker[45955] process terminated
+2019-04-14 01:48:57 pid:45954 worker[YourAppBusinessWorker:45955] exit with status 64000
+2019-04-14 01:50:54 pid:45954 Workerman[start.php] stopping ...
+2019-04-14 01:50:54 pid:45954 Workerman[start.php] has been stopped
+2019-04-14 01:50:55 pid:46043 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:50:59 pid:46044 Error: Class 'GatewayWorker\App\lib\AccessToken' not found in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php:72
+Stack trace:
+#0 [internal function]: Events::onWebSocketConnect('7f0000010b54000...', Array)
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b54000...', Array)
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 01:50:59 pid:46044 Worker[46044] process terminated
+2019-04-14 01:50:59 pid:46043 worker[YourAppBusinessWorker:46044] exit with status 64000
+2019-04-14 01:51:43 pid:46043 Workerman[start.php] stopping ...
+2019-04-14 01:51:43 pid:46043 Workerman[start.php] has been stopped
+2019-04-14 01:51:44 pid:46085 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:51:50 pid:46087 Error: Class 'GatewayWorker\App\lib\AccessToken' not found in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php:72
+Stack trace:
+#0 [internal function]: Events::onWebSocketConnect('7f0000010b54000...', Array)
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b54000...', Array)
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 01:51:50 pid:46087 Worker[46087] process terminated
+2019-04-14 01:51:50 pid:46085 worker[YourAppBusinessWorker:46087] exit with status 64000
+2019-04-14 01:52:05 pid:46085 Workerman[start.php] stopping ...
+2019-04-14 01:52:05 pid:46085 Workerman[start.php] has been stopped
+2019-04-14 01:52:27 pid:46126 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:52:31 pid:46128 Error: Class 'GatewayWorker\App\lib\AccessToken' not found in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php:73
+Stack trace:
+#0 [internal function]: Events::onWebSocketConnect('7f0000010b55000...', Array)
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b55000...', Array)
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 01:52:31 pid:46128 Worker[46128] process terminated
+2019-04-14 01:52:31 pid:46126 worker[YourAppBusinessWorker:46128] exit with status 64000
+2019-04-14 01:52:54 pid:46126 Workerman[start.php] stopping ...
+2019-04-14 01:52:54 pid:46126 Workerman[start.php] has been stopped
+2019-04-14 01:53:03 pid:46165 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:53:06 pid:46166 Error: Class 'GatewayWorker\App\lib\AccessToken' not found in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php:73
+Stack trace:
+#0 [internal function]: Events::onWebSocketConnect('7f0000010b55000...', Array)
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b55000...', Array)
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 01:53:06 pid:46166 Worker[46166] process terminated
+2019-04-14 01:53:06 pid:46165 worker[YourAppBusinessWorker:46166] exit with status 64000
+2019-04-14 01:53:23 pid:46165 Workerman[start.php] stopping ...
+2019-04-14 01:53:23 pid:46165 Workerman[start.php] has been stopped
+2019-04-14 01:53:24 pid:46191 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:53:29 pid:46193 Error: Class 'GatewayWorker\App\lib\AccessToken' not found in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php:73
+Stack trace:
+#0 [internal function]: Events::onWebSocketConnect('7f0000010b54000...', Array)
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b54000...', Array)
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 01:53:29 pid:46193 Worker[46193] process terminated
+2019-04-14 01:53:29 pid:46191 worker[YourAppBusinessWorker:46193] exit with status 64000
+2019-04-14 01:53:59 pid:46191 Workerman[start.php] stopping ...
+2019-04-14 01:53:59 pid:46191 Workerman[start.php] has been stopped
+2019-04-14 01:54:00 pid:46224 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:54:05 pid:46225 ArgumentCountError: Too few arguments to function GatewayWorker\App\lib\AccessToken::checkToken(), 5 passed in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php on line 74 and exactly 6 expected in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/lib/AccessToken.php:22
+Stack trace:
+#0 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php(74): GatewayWorker\App\lib\AccessToken::checkToken('7f0000010b55000...', NULL, NULL, NULL, '1234')
+#1 [internal function]: Events::onWebSocketConnect('7f0000010b55000...', Array)
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b55000...', Array)
+#3 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#13 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#14 {main}
+2019-04-14 01:54:05 pid:46225 Worker[46225] process terminated
+2019-04-14 01:54:05 pid:46224 worker[YourAppBusinessWorker:46225] exit with status 64000
+2019-04-14 01:54:51 pid:46224 Workerman[start.php] stopping ...
+2019-04-14 01:54:51 pid:46224 Workerman[start.php] has been stopped
+2019-04-14 01:58:04 pid:46396 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:58:10 pid:46398 ArgumentCountError: Too few arguments to function GatewayWorker\App\lib\AccessToken::checkToken(), 5 passed in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php on line 77 and exactly 6 expected in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/lib/AccessToken.php:22
+Stack trace:
+#0 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/Events.php(77): GatewayWorker\App\lib\AccessToken::checkToken('7f0000010b54000...', '', '', '', '1234')
+#1 [internal function]: Events::onWebSocketConnect('7f0000010b54000...', Array)
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(414): call_user_func('Events::onWebSo...', '7f0000010b54000...', Array)
+#3 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#13 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#14 {main}
+2019-04-14 01:58:10 pid:46398 Worker[46398] process terminated
+2019-04-14 01:58:10 pid:46396 worker[YourAppBusinessWorker:46398] exit with status 64000
+2019-04-14 01:58:49 pid:46396 Workerman[start.php] stopping ...
+2019-04-14 01:58:49 pid:46396 Workerman[start.php] has been stopped
+2019-04-14 01:58:50 pid:46438 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:58:52 pid:46439 Worker[46439] process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/lib../config/app.php' (include_path='.:/usr/local/Cellar/php@7.1/7.1.19/share/php@7.1/pear') in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/Applications/App/lib/AccessToken.php on line 29"
+2019-04-14 01:58:52 pid:46438 worker[YourAppBusinessWorker:46439] exit with status 65280
+2019-04-14 01:59:12 pid:46438 Workerman[start.php] stopping ...
+2019-04-14 01:59:12 pid:46438 Workerman[start.php] has been stopped
+2019-04-14 01:59:15 pid:46465 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 01:59:54 pid:46465 Workerman[start.php] stopping ...
+2019-04-14 01:59:54 pid:46465 Workerman[start.php] has been stopped
+2019-04-14 01:59:59 pid:46506 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 02:02:19 pid:46506 Workerman[start.php] stopping ...
+2019-04-14 02:02:19 pid:46506 Workerman[start.php] has been stopped
+2019-04-14 02:02:19 pid:46612 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 02:07:54 pid:46612 Workerman[start.php] stopping ...
+2019-04-14 02:07:54 pid:46612 Workerman[start.php] has been stopped
+2019-04-14 02:07:56 pid:46843 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 02:08:05 pid:46843 Workerman[start.php] stopping ...
+2019-04-14 02:08:05 pid:46843 Workerman[start.php] has been stopped
+2019-04-14 02:08:33 pid:46879 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 02:34:08 pid:46879 Workerman[start.php] stopping ...
+2019-04-14 02:34:08 pid:46879 Workerman[start.php] has been stopped
+2019-04-14 02:56:18 pid:48765 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:05:40 pid:48765 Workerman[start.php] stopping ...
+2019-04-14 04:05:40 pid:48765 Workerman[start.php] has been stopped
+2019-04-14 04:05:41 pid:51234 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:32:54 pid:51234 Workerman[start.php] stopping ...
+2019-04-14 04:32:54 pid:51234 Workerman[start.php] has been stopped
+2019-04-14 04:32:55 pid:52113 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:33:34 pid:52113 Workerman[start.php] stopping ...
+2019-04-14 04:33:34 pid:52113 Workerman[start.php] has been stopped
+2019-04-14 04:33:38 pid:52150 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:34:10 pid:52150 Workerman[start.php] stopping ...
+2019-04-14 04:34:10 pid:52150 Workerman[start.php] has been stopped
+2019-04-14 04:34:11 pid:52178 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:36:01 pid:52178 Workerman[start.php] stopping ...
+2019-04-14 04:36:01 pid:52178 Workerman[start.php] has been stopped
+2019-04-14 04:36:04 pid:52257 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:36:15 pid:52257 Workerman[start.php] stopping ...
+2019-04-14 04:36:15 pid:52257 Workerman[start.php] has been stopped
+2019-04-14 04:36:33 pid:52287 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:38:12 pid:52287 Workerman[start.php] stopping ...
+2019-04-14 04:38:12 pid:52287 Workerman[start.php] has been stopped
+2019-04-14 04:38:14 pid:52355 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:38:38 pid:52355 Workerman[start.php] stopping ...
+2019-04-14 04:38:38 pid:52355 Workerman[start.php] has been stopped
+2019-04-14 04:38:39 pid:52379 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:39:12 pid:52379 Workerman[start.php] stopping ...
+2019-04-14 04:39:12 pid:52379 Workerman[start.php] has been stopped
+2019-04-14 04:39:13 pid:52406 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:40:51 pid:52406 Workerman[start.php] stopping ...
+2019-04-14 04:40:51 pid:52406 Workerman[start.php] has been stopped
+2019-04-14 04:40:51 pid:52465 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:42:47 pid:52465 Workerman[start.php] stopping ...
+2019-04-14 04:42:47 pid:52465 Workerman[start.php] has been stopped
+2019-04-14 04:42:48 pid:52540 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:43:42 pid:52540 Workerman[start.php] stopping ...
+2019-04-14 04:43:42 pid:52540 Workerman[start.php] has been stopped
+2019-04-14 04:43:43 pid:52579 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:46:00 pid:52579 Workerman[start.php] stopping ...
+2019-04-14 04:46:00 pid:52579 Workerman[start.php] has been stopped
+2019-04-14 04:46:01 pid:52660 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 04:46:50 pid:52660 Workerman[start.php] stopping ...
+2019-04-14 04:46:50 pid:52660 Workerman[start.php] has been stopped
+2019-04-14 04:46:51 pid:52696 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 05:29:59 pid:52696 Workerman[start.php] stopping ...
+2019-04-14 05:29:59 pid:52696 Workerman[start.php] has been stopped
+2019-04-14 05:31:17 pid:54169 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 06:19:32 pid:54169 Workerman[start.php] stopping ...
+2019-04-14 06:19:32 pid:54169 Workerman[start.php] has been stopped
+2019-04-14 06:19:33 pid:57200 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 16:23:07 pid:57200 Workerman[start.php] stopping ...
+2019-04-14 16:23:07 pid:57200 Workerman[start.php] has been stopped
+2019-04-14 16:23:48 pid:67765 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 16:32:04 pid:67765 Workerman[start.php] stopping ...
+2019-04-14 16:32:04 pid:67765 Workerman[start.php] has been stopped
+2019-04-14 16:32:05 pid:68030 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 16:36:31 pid:68030 Workerman[start.php] stopping ...
+2019-04-14 16:36:31 pid:68030 Workerman[start.php] has been stopped
+2019-04-14 16:36:33 pid:68187 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 16:38:03 pid:68187 Workerman[start.php] stopping ...
+2019-04-14 16:38:03 pid:68187 Workerman[start.php] has been stopped
+2019-04-14 16:38:04 pid:68244 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 18:39:01 pid:68244 Workerman[start.php] stopping ...
+2019-04-14 18:39:02 pid:68244 Workerman[start.php] has been stopped
+2019-04-14 18:39:02 pid:72356 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 18:59:02 pid:72356 Workerman[start.php] stopping ...
+2019-04-14 18:59:02 pid:72356 Workerman[start.php] has been stopped
+2019-04-14 19:00:08 pid:73070 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 19:03:15 pid:73070 Workerman[start.php] stopping ...
+2019-04-14 19:03:15 pid:73070 Workerman[start.php] has been stopped
+2019-04-14 19:18:29 pid:73699 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 19:18:48 pid:73699 Workerman[start.php] stopping ...
+2019-04-14 19:18:48 pid:73699 Workerman[start.php] has been stopped
+2019-04-14 19:19:07 pid:73735 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 19:44:08 pid:73738 Exception: You can't send(array) to client, you need to convert it to a string.  in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Protocols/Websocket.php:236
+Stack trace:
+#0 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/Gateway.php(841): Workerman\Connection\TcpConnection->send(Array, false)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #58)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\Gateway->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 19:44:08 pid:73738 Worker[73738] process terminated
+2019-04-14 19:44:08 pid:73735 worker[YourAppGateway:73738] exit with status 64000
+2019-04-14 19:44:32 pid:73739 Exception: You can't send(array) to client, you need to convert it to a string.  in /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Protocols/Websocket.php:236
+Stack trace:
+#0 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/Gateway.php(841): Workerman\Connection\TcpConnection->send(Array, false)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #60)
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/Gateway.php(276): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\Gateway->run()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\Gateway))
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-04-14 19:44:32 pid:73739 Worker[73739] process terminated
+2019-04-14 19:44:32 pid:73735 worker[YourAppGateway:73739] exit with status 64000
+2019-04-14 20:00:11 pid:73735 Workerman[start.php] stopping ...
+2019-04-14 20:00:11 pid:73735 Workerman[start.php] has been stopped
+2019-04-14 20:00:12 pid:75301 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 21:24:56 pid:75301 Workerman[start.php] stopping ...
+2019-04-14 21:24:56 pid:75301 Workerman[start.php] has been stopped
+2019-04-14 21:24:57 pid:78298 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-14 21:52:02 pid:78298 Workerman[start.php] stopping ...
+2019-04-14 21:52:02 pid:78298 Workerman[start.php] has been stopped
+2019-04-14 21:52:05 pid:79204 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-15 00:51:09 pid:79205 process_timeout:
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(268): pcntl_signal_dispatch()
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#9 {main}
+
+2019-04-15 00:52:25 pid:79206 process_timeout:
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(268): pcntl_signal_dispatch()
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#9 {main}
+
+2019-04-15 23:07:31 pid:79204 Workerman[start.php] stopping ...
+2019-04-15 23:07:31 pid:79204 Workerman[start.php] has been stopped
+2019-04-15 23:07:32 pid:55166 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-18 22:46:13 pid:55166 worker[YourAppGateway:55170] exit with status 9
+2019-04-18 22:59:53 pid:5930 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-20 09:09:41 pid:5933 process_timeout:
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(268): pcntl_signal_dispatch()
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#9 {main}
+
+2019-04-20 13:18:06 pid:5930 Workerman[start.php] stopping ...
+2019-04-20 13:18:06 pid:5930 Workerman[start.php] has been stopped
+2019-04-20 13:18:07 pid:48890 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-04-21 23:33:54 pid:48892 process_timeout:
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(268): pcntl_signal_dispatch()
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#9 {main}
+
+2019-05-05 07:41:16 pid:55810 process_timeout:
+#1 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(268): pcntl_signal_dispatch()
+#2 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#3 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#4 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#5 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#6 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#7 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#8 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#9 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#10 /Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+
+2019-05-05 16:43:54 pid:85991 Workerman[/Users/mengmingxing/www/working/wangshangpay/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 16:33:57 pid:40341 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 16:34:08 pid:40341 Workerman[start.php] stopping ...
+2019-05-06 16:34:08 pid:40341 Workerman[start.php] has been stopped
+2019-05-06 16:43:35 pid:41115 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 16:43:45 pid:41115 Workerman[start.php] stopping ...
+2019-05-06 16:43:45 pid:41115 Workerman[start.php] has been stopped
+2019-05-06 17:06:07 pid:43256 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:06:10 pid:43258 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:89
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"init",...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"init",...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-05-06 17:06:10 pid:43258 Worker[43258] process terminated
+2019-05-06 17:06:10 pid:43256 worker[ChatBusinessWorker:43258] exit with status 64000
+2019-05-06 17:07:11 pid:43269 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:89
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"init",...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"init",...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:07:11 pid:43269 Worker[43269] process terminated
+2019-05-06 17:07:11 pid:43256 worker[ChatBusinessWorker:43269] exit with status 64000
+2019-05-06 17:07:42 pid:43257 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:89
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"init",...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"init",...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-05-06 17:07:42 pid:43257 Worker[43257] process terminated
+2019-05-06 17:07:42 pid:43256 worker[ChatBusinessWorker:43257] exit with status 64000
+2019-05-06 17:07:47 pid:43407 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:262
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"chatMe...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"chatMe...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:07:47 pid:43407 Worker[43407] process terminated
+2019-05-06 17:07:47 pid:43256 worker[ChatBusinessWorker:43407] exit with status 64000
+2019-05-06 17:08:39 pid:43374 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:89
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fd000...', '{"type":"init",...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fd000...', '{"type":"init",...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:08:39 pid:43374 Worker[43374] process terminated
+2019-05-06 17:08:39 pid:43256 worker[ChatBusinessWorker:43374] exit with status 64000
+2019-05-06 17:08:50 pid:43465 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:89
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"init",...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"init",...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:08:50 pid:43465 Worker[43465] process terminated
+2019-05-06 17:08:50 pid:43256 worker[ChatBusinessWorker:43465] exit with status 64000
+2019-05-06 17:09:07 pid:43480 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:262
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"chatMe...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"chatMe...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #49)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:09:07 pid:43480 Worker[43480] process terminated
+2019-05-06 17:09:07 pid:43256 worker[ChatBusinessWorker:43480] exit with status 64000
+2019-05-06 17:09:13 pid:43503 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:262
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"chatMe...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"chatMe...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #50)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:09:13 pid:43503 Worker[43503] process terminated
+2019-05-06 17:09:13 pid:43256 worker[ChatBusinessWorker:43503] exit with status 64000
+2019-05-06 17:09:20 pid:43256 Workerman[start.php] stopping ...
+2019-05-06 17:09:20 pid:43256 Workerman[start.php] has been stopped
+2019-05-06 17:09:21 pid:43520 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:09:24 pid:43522 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:89
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"init",...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"init",...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2019-05-06 17:09:24 pid:43522 Worker[43522] process terminated
+2019-05-06 17:09:24 pid:43520 worker[ChatBusinessWorker:43522] exit with status 64000
+2019-05-06 17:09:29 pid:43533 Error: Class 'Db' not found in /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/Applications/App/Events.php:262
+Stack trace:
+#0 [internal function]: Events::onMessage('7f00000108fc000...', '{"type":"chatMe...')
+#1 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f00000108fc000...', '{"type":"chatMe...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Select->loop()
+#7 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/gateway-worker/src/BusinessWorker.php(197): Workerman\Worker->run()
+#8 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1452): GatewayWorker\BusinessWorker->run()
+#9 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#11 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1586): Workerman\Worker::forkWorkers()
+#12 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(1535): Workerman\Worker::monitorWorkersForLinux()
+#13 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::monitorWorkers()
+#14 /Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php(37): Workerman\Worker::runAll()
+#15 {main}
+2019-05-06 17:09:29 pid:43533 Worker[43533] process terminated
+2019-05-06 17:09:29 pid:43520 worker[ChatBusinessWorker:43533] exit with status 64000
+2019-05-06 17:11:41 pid:43520 Workerman[start.php] stopping ...
+2019-05-06 17:11:41 pid:43520 Workerman[start.php] has been stopped
+2019-05-06 17:11:42 pid:43715 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:33:15 pid:43715 Workerman[start.php] stopping ...
+2019-05-06 17:33:15 pid:43715 Workerman[start.php] has been stopped
+2019-05-06 17:37:38 pid:44385 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:38:06 pid:44385 Workerman[start.php] stopping ...
+2019-05-06 17:38:06 pid:44385 Workerman[start.php] has been stopped
+2019-05-06 17:39:11 pid:44522 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:39:19 pid:44522 Workerman[start.php] stopping ...
+2019-05-06 17:39:19 pid:44522 Workerman[start.php] has been stopped
+2019-05-06 17:40:40 pid:44651 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:40:46 pid:44651 Workerman[start.php] stopping ...
+2019-05-06 17:40:46 pid:44651 Workerman[start.php] has been stopped
+2019-05-06 17:41:18 pid:44716 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:41:25 pid:44716 Workerman[start.php] stopping ...
+2019-05-06 17:41:25 pid:44716 Workerman[start.php] has been stopped
+2019-05-06 17:45:30 pid:45067 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:53:16 pid:45067 Workerman[start.php] stopping ...
+2019-05-06 17:53:16 pid:45067 Workerman[start.php] has been stopped
+2019-05-06 17:54:10 pid:45756 Workerman[/Users/mengmingxing/www/test/laychat-master/extend/GatewayWorker/start.php] start in DEBUG mode
+2019-05-06 17:57:43 pid:45756 Workerman[start.php] stopping ...
+2019-05-06 17:57:43 pid:45756 Workerman[start.php] has been stopped
